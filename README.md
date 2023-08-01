@@ -17,7 +17,7 @@ This project aims to analyze the possible causes of customer churn in a company,
 - Create predictive models to identify factors contributing to churn.
 - Provide conclusions and recommendations in order to reduce the number of customer cancellations and improve customer satisfaction and retention.
 
-## Contribution
+## ♻ Contribution
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an [issue](https://github.com/Yuri-Diego/PythonAnalyzesDATA/issues/new) in this repository.
 
@@ -25,6 +25,6 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 - [Pandas](https://pandas.pydata.org)
 - [Plotly](https://plotly.com)
 
-### Authors
+### 👨‍💻 Authors
 
 - [Yuri Almeida](https://github.com/Yuri-Diego)
