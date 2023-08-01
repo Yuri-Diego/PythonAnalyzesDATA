@@ -27,4 +27,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ### 👨‍💻 Authors
 
-- [Yuri Almeida](https://github.com/Yuri-Diego)
+- [Yuri](https://github.com/Yuri-Diego)
